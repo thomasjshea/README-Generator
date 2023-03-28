@@ -64,7 +64,7 @@ function init() {
     inquirer
     .prompt(questions)
     .then((data) => {
-        const fileName = 'sample.md'
+        const fileName = 'README.md'
         const markdownPageContent = generateMarkdown(data)
         writeToFile(fileName, markdownPageContent);
     })
