@@ -32,7 +32,9 @@
 
   Email: [](mailto:)
   
-  
+  ## License
+  This application uses the The Unilicense License
 
+  [The Unilicense](https://choosealicense.com/licenses/unlicense/)
   
   
