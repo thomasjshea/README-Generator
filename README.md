@@ -1,10 +1,10 @@
 # README Generator
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
 
-  This application will generate a README file from the user's response to prompts.
+  This application will generate a README file based on a user's responses to prompts.
   
   ## Table of Contents
 
@@ -15,11 +15,11 @@
   
   ## Installation
   
-  To install this application, clone the Github repository to your machine. Navigate to the repo location in your terminal. Install Inquirer 8.2.4 using the command 'npm i inquirer@8.2.4'
+  To install, clone the github repo to your machine, navigate to the location of the repo using your terminal, and install inquirer 8.2.4 using the command 'npm i inquirer@8.2.4'
   
   ## Usage
   
-  In the command line use the command 'node index.js' and answer the prompts
+  Type the command node index.js into your terminal and answer the prompts.
   
   ## Credits
   
@@ -36,8 +36,8 @@
   Email: [thomasjshea89@gmail.com](mailto:thomasjshea89@gmail.com)
   
   ## License
-  This application uses the MIT License
+  This application uses the Apache 2.0 License
 
-  [MIT License](https://choosealicense.com/licenses/mit/)
+  [Apache 2.0 License](https://choosealicense.com/licenses/apache-2.0/)
   
   
